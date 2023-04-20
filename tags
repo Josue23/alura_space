@@ -1,0 +1,27 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+ALLOWED_HOSTS	setup/settings.py	/^ALLOWED_HOSTS = ['*']$/;"	v
+AUTH_PASSWORD_VALIDATORS	setup/settings.py	/^AUTH_PASSWORD_VALIDATORS = [$/;"	v
+BASE_DIR	setup/settings.py	/^BASE_DIR = Path(__file__).resolve().parent.parent$/;"	v
+DATABASES	setup/settings.py	/^DATABASES = {$/;"	v
+DEBUG	setup/settings.py	/^DEBUG = True$/;"	v
+DEFAULT_AUTO_FIELD	setup/settings.py	/^DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'$/;"	v
+INSTALLED_APPS	setup/settings.py	/^INSTALLED_APPS = [$/;"	v
+LANGUAGE_CODE	setup/settings.py	/^LANGUAGE_CODE = 'pt-br'$/;"	v
+MIDDLEWARE	setup/settings.py	/^MIDDLEWARE = [$/;"	v
+ROOT_URLCONF	setup/settings.py	/^ROOT_URLCONF = 'setup.urls'$/;"	v
+SECRET_KEY	setup/settings.py	/^SECRET_KEY = str(os.getenv('SECRET_KEY'))$/;"	v
+STATIC_URL	setup/settings.py	/^STATIC_URL = 'static\/'$/;"	v
+TEMPLATES	setup/settings.py	/^TEMPLATES = [$/;"	v
+TIME_ZONE	setup/settings.py	/^TIME_ZONE = 'America\/Fortaleza'$/;"	v
+USE_I18N	setup/settings.py	/^USE_I18N = True$/;"	v
+USE_TZ	setup/settings.py	/^USE_TZ = True$/;"	v
+WSGI_APPLICATION	setup/settings.py	/^WSGI_APPLICATION = 'setup.wsgi.application'$/;"	v
+application	setup/asgi.py	/^application = get_asgi_application()$/;"	v
+application	setup/wsgi.py	/^application = get_wsgi_application()$/;"	v
+main	manage.py	/^def main():$/;"	f
+urlpatterns	setup/urls.py	/^urlpatterns = [$/;"	v
